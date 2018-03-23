@@ -1,0 +1,1 @@
+state_png = {'Swimming Pool': {'Not yet visited': '../data_website_equipments/png/piscine_grey.png', 'Visited': '../data_website_equipments/png/piscine_blue.png'}, 'Tennis': {'Not yet visited': '../data_website_equipments/png/tennis_grey.png', 'Visited': '../data_website_equipments/png/tennis_yellow.png'}};

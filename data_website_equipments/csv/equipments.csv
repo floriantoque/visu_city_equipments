@@ -1,0 +1,181 @@
+id,name,lat,lon,address,zipCode,websiteUrl,id_cat,cat,type,city,state
+2916,Piscine Suzanne Berlioux (Les Halles),48.8623474,2.3458559,forum des Halles,75001,http://equipement.paris.fr/piscine-suzanne-berlioux-(les-halles)-2916,27,Swimming Pool,,Paris,Visited
+2918,Piscine Pontoise,48.849236,2.3515816,"19, rue de Pontoise",75005,http://equipement.paris.fr/piscine-pontoise-2918,27,Swimming Pool,,Paris,Visited
+2919,Piscine Saint-Germain,48.851669,2.335931,"12, rue Lobineau ",75006,http://equipement.paris.fr/piscine-saint-germain-2919,27,Swimming Pool,,Paris,Visited
+2920,Piscine Georges Drigny,48.881893,2.342184,"18, rue Bochart de Saron ",75009,http://equipement.paris.fr/piscine-georges-drigny-2920,27,Swimming Pool,,Paris,Visited
+2921,Piscine Paul Valeyre,48.8781484,2.3449489,"24, rue de Rochechouart",75009,http://equipement.paris.fr/piscine-paul-valeyre-2921,27,Swimming Pool,,Paris,Visited
+2923,Piscine Château-Landon,48.883221,2.363909,"31, rue du château-Landon ",75010,http://equipement.paris.fr/piscine-château-landon-2923,27,Swimming Pool,,Paris,Visited
+2924,Piscine Georges Rigal,48.856609,2.394056,"115, boulevard de Charonne ",75011,http://equipement.paris.fr/piscine-georges-rigal-2924,27,Swimming Pool,,Paris,Visited
+2925,Piscine de la Cour des Lions,48.860626,2.370507,"9, rue Alphonse Baudin ",75011,http://equipement.paris.fr/piscine-de-la-cour-des-lions-2925,27,Swimming Pool,,Paris,Visited
+2926,Piscine Jean Boiteux ex Reuilly,48.841927,2.389423,"13, rue Hénard ",75012,http://equipement.paris.fr/piscine-jean-boiteux-ex-reuilly-2926,27,Swimming Pool,,Paris,Visited
+2927,Piscine de la Butte aux Cailles,48.8274283,2.3524749,"5, place Paul Verlaine",75013,http://equipement.paris.fr/piscine-de-la-butte-aux-cailles-2927,27,Swimming Pool,,Paris,Visited
+2928,Piscine Château des Rentiers,48.830406,2.3619,"184, rue du Château des Rentiers ",75013,http://equipement.paris.fr/piscine-château-des-rentiers-2928,27,Swimming Pool,,Paris,Visited
+2929,Piscine Dunois,48.832973,2.366437,"70, rue Dunois ",75013,http://equipement.paris.fr/piscine-dunois-2929,27,Swimming Pool,,Paris,Visited
+2930,Piscine Joséphine-Baker,48.8338944,2.3775918,quai François Mauriac - Quai de la Gare,75013,http://equipement.paris.fr/piscine-joséphine-baker-2930,27,Swimming Pool,,Paris,Visited
+2931,Piscine Aspirant Dunand,48.831699,2.326708,"20, rue Saillard ",75014,http://equipement.paris.fr/piscine-aspirant-dunand-2931,27,Swimming Pool,,Paris,Visited
+2932,Piscine Didot,48.824276,2.309616,"22, avenue Georges Lafenestre ",75014,http://equipement.paris.fr/piscine-didot-2932,27,Swimming Pool,,Paris,Visited
+2933,Piscine Armand Massard,48.844036,2.323341,66 boulevard du Montparnasse ,75015,http://equipement.paris.fr/piscine-armand-massard-2933,27,Swimming Pool,,Paris,Visited
+2935,Piscine Emile Anthoine (bassin mobile),48.8572006,2.2911543,"2, avenue de Suffren",75015,http://equipement.paris.fr/piscine-emile-anthoine-(bassin-mobile)-2935,27,Swimming Pool,,Paris,Visited
+2936,Piscine Keller,48.8473705,2.2820431,"14, rue de l\'Ingénieur Robert-Keller",75015,http://equipement.paris.fr/piscine-keller-2936,27,Swimming Pool,,Paris,Visited
+2937,Piscine La Plaine,48.827991,2.292976,"13, rue du Général Guillaumat ",75015,http://equipement.paris.fr/piscine-la-plaine-2937,27,Swimming Pool,,Paris,Visited
+2938,Piscine René et André Mourlon,48.848824,2.284898,"19, rue Gaston de Caillavet ",75015,http://equipement.paris.fr/piscine-rené-et-andré-mourlon-2938,27,Swimming Pool,,Paris,Not yet visited
+2939,Piscine Henry de Montherlant,48.867092,2.271985,"30, boulevard Lannes ",75016,http://equipement.paris.fr/piscine-henry-de-montherlant-2939,27,Swimming Pool,,Paris,Visited
+2940,Piscine Bernard Lafay,48.894707,2.318883,"79, rue de la Jonquière ",75017,http://equipement.paris.fr/piscine-bernard-lafay-2940,27,Swimming Pool,,Paris,Visited
+2941,Piscine Champerret,48.888275,2.295667,"36, boulevard de Reims ",75017,http://equipement.paris.fr/piscine-champerret-2941,27,Swimming Pool,,Paris,Visited
+2942,Piscine Bertrand Dauvin,48.899296,2.342513,"12, rue René Binet ",75018,http://equipement.paris.fr/piscine-bertrand-dauvin-2942,27,Swimming Pool,,Paris,Not yet visited
+2943,Piscine Hébert,48.8940677,2.3632265,"2, rue des Fillettes",75018,http://equipement.paris.fr/piscine-hébert-2943,27,Swimming Pool,,Paris,Not yet visited
+2944,Piscine des Amiraux,48.894421,2.350622,"6, rue Hermann Lachapelle ",75018,http://equipement.paris.fr/piscine-des-amiraux-2944,27,Swimming Pool,,Paris,Not yet visited
+2945,Piscine Edouard Pailleron,48.880829,2.377323,"32, rue Edouard Pailleron ",75019,http://equipement.paris.fr/piscine-edouard-pailleron-2945,27,Swimming Pool,,Paris,Visited
+2946,Piscine Mathis,48.890816,2.375107,"15, rue Mathis ",75019,http://equipement.paris.fr/piscine-mathis-2946,27,Swimming Pool,,Paris,Visited
+2947,Piscine Rouvet,48.893188,2.385029,"1, rue Rouvet ",75019,http://equipement.paris.fr/piscine-rouvet-2947,27,Swimming Pool,,Paris,Visited
+2948,Piscine Georges Hermant,48.8826541,2.3896377,"8-10, rue David d Angers",75019,http://equipement.paris.fr/piscine-georges-hermant-2948,27,Swimming Pool,,Paris,Visited
+2949,Piscine Georges-Vallerey,48.875381,2.405829,"148, avenue Gambetta ",75020,http://equipement.paris.fr/piscine-georges-vallerey-2949,27,Swimming Pool,,Paris,Visited
+2950,Piscine Roger Le Gall,48.842007,2.413147,"34, boulevard Carnot ",75012,http://equipement.paris.fr/piscine-roger-le-gall-2950,27,Swimming Pool,,Paris,Visited
+3324,Piscine d'Auteuil,48.8583926,2.26091,"1, Route des Lacs à Passy",75016,http://equipement.paris.fr/piscine-d-auteuil-3324,27,Swimming Pool,,Paris,Visited
+3325,Piscine Jean Taris,48.8447257,2.3479414,"16, rue Thouin",75005,http://equipement.paris.fr/piscine-jean-taris-3325,27,Swimming Pool,,Paris,Visited
+4012,Piscine Alfred Nakache,48.871498,2.378612,"4-12, rue Dénoyez ",75020,http://equipement.paris.fr/piscine-alfred-nakache-4012,27,Swimming Pool,,Paris,Visited
+5041,Piscine Catherine Lagatu ex Parmentier,48.871693,2.369786,155 avenue Parmentier,75010,http://equipement.paris.fr/piscine-catherine-lagatu-ex-parmentier-5041,27,Swimming Pool,,Paris,Visited
+17349,Piscine Jacqueline Auriol ex Beaujon,48.8765928,2.3070016,7 Allée Louis de Funès,75008,http://equipement.paris.fr/piscine-jacqueline-auriol-ex-beaujon-17349,27,Swimming Pool,,Paris,Visited
+2965,Tennis Alain Mimoun ex Paul Valéry,48.837959,2.410325,15 Rue de la Nouvelle-Calédonie ,75012,http://equipement.paris.fr/tennis-alain-mimoun-ex-paul-valéry-2965,280,Tennis,,Paris,Not yet visited
+2966,Tennis Georges Carpentier,48.820801,2.366817,81 Boulevard Masséna ,75013,http://equipement.paris.fr/tennis-georges-carpentier-2966,280,Tennis,,Paris,Not yet visited
+2967,Tennis Moureu Baudricourt,48.82777,2.364578,17 Avenue Edison ,75013,http://equipement.paris.fr/tennis-moureu-baudricourt-2967,280,Tennis,,Paris,Visited
+2968,Tennis Château des Rentiers,48.830406,2.3619,184 Rue du château des Rentiers ,75013,http://equipement.paris.fr/tennis-château-des-rentiers-2968,280,Tennis,,Paris,Not yet visited
+2969,Tennis Cordelières,48.833435,2.348546,35 Rue des Cordelières ,75013,http://equipement.paris.fr/tennis-cordelières-2969,280,Tennis,,Paris,Not yet visited
+2970,Tennis Dunois,48.833035,2.366424,70 Rue Dunois,75013,http://equipement.paris.fr/tennis-dunois-2970,280,Tennis,,Paris,Not yet visited
+2971,Tennis de la Poterne des Peupliers,48.820278,2.354112,1 Rue Max Jacob ,75013,http://equipement.paris.fr/tennis-de-la-poterne-des-peupliers-2971,280,Tennis,,Paris,Not yet visited
+2972,Tennis Elisabeth,48.821259,2.328693,7 Avenue Paul Appell ,75014,http://equipement.paris.fr/tennis-elisabeth-2972,280,Tennis,,Paris,Not yet visited
+2977,Tennis André et René Mourlon,48.848873,2.284738,19 Rue Gaston de Caillavet ,75015,http://equipement.paris.fr/tennis-andré-et-rené-mourlon-2977,280,Tennis,,Paris,Not yet visited
+2978,Tennis Sablonnière,48.843792,2.302382,62 Rue Cambronne ,75015,http://equipement.paris.fr/tennis-sablonnière-2978,280,Tennis,,Paris,Not yet visited
+2979,Tennis Suzanne Lenglen,48.833035,2.277919,2 rue Louis Armand ,75015,http://equipement.paris.fr/tennis-suzanne-lenglen-2979,280,Tennis,,Paris,Not yet visited
+2980,Tennis Henry de Montherlant,48.867447,2.272296,30 Boulevard Lannes ,75016,http://equipement.paris.fr/tennis-henry-de-montherlant-2980,280,Tennis,,Paris,Not yet visited
+2981,Tennis Niox,48.835205,2.262558,16 Quai Saint Exupéry ,75016,http://equipement.paris.fr/tennis-niox-2981,280,Tennis,,Paris,Not yet visited
+2982,Tennis Aurelles de Paladines,48.883156,2.28226,17 Boulevard d\'Aurelle de Paladines ,75017,http://equipement.paris.fr/tennis-aurelles-de-paladines-2982,280,Tennis,,Paris,Not yet visited
+2983,Tennis Courcelles,48.888103,2.294193,"209, rue de Courcelles ",75017,http://equipement.paris.fr/tennis-courcelles-2983,280,Tennis,,Paris,Not yet visited
+2985,Tennis Max Rousié,48.898933,2.325513,28 Rue André Brechet ,75017,http://equipement.paris.fr/tennis-max-rousié-2985,280,Tennis,,Paris,Not yet visited
+2987,Tennis Bertrand Dauvin,48.899296,2.342513,12 Rue René Binet ,75018,http://equipement.paris.fr/tennis-bertrand-dauvin-2987,280,Tennis,,Paris,Not yet visited
+2988,Tennis Jesse Owens ex Championnet,48.894657,2.334783,172 Rue Championnet ,75018,http://equipement.paris.fr/tennis-jesse-owens-ex-championnet-2988,280,Tennis,,Paris,Not yet visited
+2989,Tennis des Poissonniers,48.89962,2.351621,2 Rue Jean Cocteau ,75018,http://equipement.paris.fr/tennis-des-poissonniers-2989,280,Tennis,,Paris,Not yet visited
+2990,Tennis Jandelle,48.875404,2.380203,15 Cité Jandelle ,75019,http://equipement.paris.fr/tennis-jandelle-2990,280,Tennis,,Paris,Not yet visited
+2991,Tennis Jules Ladoumègue,48.889606,2.397263,1 Avenue de la porte de Pantin ,75019,http://equipement.paris.fr/tennis-jules-ladoumègue-2991,280,Tennis,,Paris,Not yet visited
+2992,Tennis Edouard Pailleron,48.880882,2.377449,22 Rue Edouard Pailleron ,75019,http://equipement.paris.fr/tennis-edouard-pailleron-2992,280,Tennis,,Paris,Not yet visited
+2993,Tennis Sept Arpents,48.8896426608,2.39844550608,"9, rue des 7 arpents",75019,http://equipement.paris.fr/tennis-sept-arpents-2993,280,Tennis,,Paris,Not yet visited
+2995,Tennis Louis Lumière,48.858906,2.411531,30 Rue Louis Lumière ,75020,http://equipement.paris.fr/tennis-louis-lumière-2995,280,Tennis,,Paris,Not yet visited
+2997,Tennis de la Porte de Bagnolet,48.862213,2.410989,72 Rue Louis Lumière ,75020,http://equipement.paris.fr/tennis-de-la-porte-de-bagnolet-2997,280,Tennis,,Paris,Not yet visited
+2998,Tennis Docteurs Déjerine,48.857147,2.411479,32 Rue des docteurs Dejerine ,75020,http://equipement.paris.fr/tennis-docteurs-déjerine-2998,280,Tennis,,Paris,Not yet visited
+3318,Tennis Carnot,48.842991,2.413015,26 boulevard Carnot ,75012,http://equipement.paris.fr/tennis-carnot-3318,280,Tennis,,Paris,Not yet visited
+3321,Tennis Léo Lagrange,48.833179,2.401572,"68, boulevard Poniatowski ",75012,http://equipement.paris.fr/tennis-léo-lagrange-3321,280,Tennis,,Paris,Not yet visited
+3372,Tennis de l'Atlantique,48.840546,2.318909,25 allee du Capitaine Dronne ,75015,http://equipement.paris.fr/tennis-de-l-atlantique-3372,280,Tennis,,Paris,Not yet visited
+3664,Tennis Poliveau,48.839882,2.35747,39 rue Poliveau,75005,http://equipement.paris.fr/tennis-poliveau-3664,280,Tennis,,Paris,Not yet visited
+17244,Tennis Philippe Auguste,48.8567831,2.3909553,108 avenue Philippe Auguste,75011,http://equipement.paris.fr/tennis-philippe-auguste-17244,280,Tennis,,Paris,Not yet visited
+17824,Tennis Paul Barruel,48.8386486,2.3052445,24 rue Paul Barruel,75015,http://equipement.paris.fr/tennis-paul-barruel-17824,280,Tennis,,Paris,Not yet visited
+19071,Centre Sportif Parisien de Puteaux,48.8764085,2.2439275,1 allée des Sports,92800,http://equipement.paris.fr/centre-sportif-parisien-de-puteaux-19071,280,Tennis,,Paris,Not yet visited
+19075,Tennis Thiéré,48.8537748,2.3736091,9ter-13 passage Thiéré,75011,http://equipement.paris.fr/tennis-thiéré-19075,280,Tennis,,Paris,Not yet visited
+19091,Tennis-Rigoulot - La Plaine,48.8265263,2.3000032,18 avenue de la Porte de Brancion,75015,http://equipement.paris.fr/tennis-rigoulot---la-plaine-19091,280,Tennis,,Paris,Not yet visited
+19092,Tennis Candie,48.8513831,2.3800191,"11, rue de Candie",75011,http://equipement.paris.fr/tennis-candie-19092,280,Tennis,,Paris,Not yet visited
+19093,Tennis Croix Nivert,48.8424487,2.2945745,"107, rue de la Croix Nivert",75015,http://equipement.paris.fr/tennis-croix-nivert-19093,280,Tennis,,Paris,Not yet visited
+19094,Tennis Poissonniers,48.8997616,2.3519564,"2, rue Jean Cocteau",75018,http://equipement.paris.fr/tennis-poissonniers-19094,280,Tennis,,Paris,Not yet visited
+19096,Tennis Reims - Asnières,48.8885379,2.294193,224 rue de Courcelles,75017,http://equipement.paris.fr/tennis-reims---asnières-19096,280,Tennis,,Paris,Not yet visited
+3114253m0,Complexe sportif Claude-Robillard,45.552526,-73.63639,"1 000, Avenue Émile-Journeault Est",Ahuntsic-Cartierville,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+1020721m1,Centre sportif St-Charles,45.479802,-73.563099,"1 055, Rue Hibernia",Le Sud-Ouest,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+4039115m2,Parc Ouellette (natation et récréatif),45.432989,-73.622005,"1 407, Rue Serre",LaSalle,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4156343m3,L’Aquadôme LaSalle,45.43654,-73.608196,"1 411, Rue Lapierre",LaSalle,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5016554m4,Parc Hartenstein,45.518174,-73.690259,"1 505, Rue Cardinal",Saint-Laurent,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1018523m5,Bain Quintal,45.52886,-73.548969,"1 550, Rue Dufresne",Ville-Marie,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5103407m6,Centre sportif Père-Marquette,45.552047,-73.582776,"1 600, Rue Drucourt",Rosemont–La Petite-Patrie,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+3021351m7,Marcelin-Wilson,45.537,-73.684215,"1 655, Rue Dudemaine, H3M 1R2",Ahuntsic-Cartierville,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5061272m8,Port de Plaisance,45.42984,-73.676543,"1 800, Chemin des Iroquois",Lachine,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5006029m9,Centre sportif Petite-Bourgogne,45.488356,-73.569224,"1 825, Rue Notre-Dame Ouest",Le Sud-Ouest,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5056523m10,Parc Duff-Court,45.446949,-73.680636,"1 830, Croissant Roy",Lachine,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2063743m11,Hochelaga,45.542152,-73.544576,"1 870, Rue Davidson",Mercier–Hochelaga-Maisonneuve,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+2065901m12,Bain Morgan,45.553456,-73.538296,"1 875, Avenue Morgan",Mercier–Hochelaga-Maisonneuve,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5072841m13,Complexe aquatique – Société du parc Jean-Drapeau,45.513559,-73.534212,"1, Circuit Gilles-Villeneuve,",Ville-Marie,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2068769m14,Parc Ottawa,45.58206,-73.642625,"10 341, Avenue Lausanne",Montréal-Nord,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3116265m15,Sophie-Barat,45.561879,-73.667771,"10 851, Rue Saint-Charles, H2C 3H7",Ahuntsic-Cartierville,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+2076909m16,Parc Charleroi,45.599675,-73.622288,"10 975, Avenue Alfred",Montréal-Nord,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5073228m17,Parc Arthur-Therrien,45.465099,-73.561523,"10, Rue Hickson",Verdun,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2077664m18,Parc Saint-Laurent,45.6054,-73.628788,"11 614, Avenue Salk",Montréal-Nord,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5029269m19,Piscine intérieure Roussin,45.640791,-73.491213,"12 125, Rue Notre-Dame Est",Rivière-des-Prairies–Pointe-aux-Trembles,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5072848m20,Centre aquatique Rivières-des-Prairies,45.652434,-73.579832,"12 515, Boulevard Rodolphe-Forget",Rivière-des-Prairies–Pointe-aux-Trembles,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5070958m21,Parc Alexis-Carrel,45.644203,-73.5888,"12 550, Avenue Alexis-Carrel",Rivière-des-Prairies–Pointe-aux-Trembles,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+0m22,Piscine briarwood,45.513394,-73.835702,12421 rue Pavillon,Pierrefonds-Roxborro,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2079739m23,Parc Saint-Georges,45.654126,-73.492443,"13 050, Rue Prince-Albert",Rivière-des-Prairies–Pointe-aux-Trembles,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2072528m24,Parc Richelieu,45.663718,-73.504812,"13 600, Rue Forsyth",Rivière-des-Prairies–Pointe-aux-Trembles,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+0m25,Piscine Versailles,45.511799,-73.84876,13207 rue Desjardins,Pierrefonds-Roxborro,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+0m26,Piscine du YMCA Centre-Ville,45.499673,-73.574548,1440 rue Stanley,Ville-Marie,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+0m27,Piscine Thorndale,45.474981,-73.856309,14921 rue Oakwood,Pierrefonds-Roxborro,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4084462m28,Parc Robert-Sauvé,45.481102,-73.866735,"15 734, Rue de la Caserne, Sainte-Geneviève",L'Île-Bizard–Sainte-Geneviève,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5054431m29,Parc Kirkland,45.445896,-73.649786,"150, Rue des Érables",Lachine,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+0m30,Piscine Marcelin-Wilson,45.53926,-73.68896,1655 rue Dudemaine,Ahuntsic-Cartierville,,,Swimming Pool,"Piscine extérieure, Jeux d'eau",Montréal,Not yet visited
+4127635m31,Parc Haymard,45.423339,-73.648129,"170, Avenue Orchard",LaSalle,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5015690m32,Parc Marlborough,45.5236,-73.720565,"2 105, Rue Beauzèle",Saint-Laurent,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1034674m33,Centre du Plateau,45.539247,-73.575215,"2 275, Boulevard St-Joseph",Le Plateau-Mont-Royal,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+1026261m34,Parc Baldwin,45.53471,-73.563391,"2 330, Rue Rachel Est",Le Plateau-Mont-Royal,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3023745m35,Gabriel-Lalemant,45.570705,-73.642456,"2 350, Rue Sauvé Est, H2B 1B2",Ahuntsic-Cartierville,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2008973m36,Parc Le Pélican,45.543972,-73.574363,"2 560, Rue Masson",Rosemont–La Petite-Patrie,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5037561m37,Jean-Claude-Malépart,45.534409,-73.553673,"2 633, Rue Ontario Est",Ville-Marie,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+4157130m38,Parc Noël-Nord,45.51771,-73.727966,"2 900, Rue Baker",Saint-Laurent,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3123106m39,Parc Jarry,45.535132,-73.628819,"205, Rue Faillon Ouest",Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+0m40,Piscine Association sportive et communautaire Centre-S,45.522851,-73.562687,2093 de la Visitation,Ville-Marie,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+0m41,Piscine du Vieux-Montréal,45.514048,-73.566465,255 rue Ontario est,Ville-Marie,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5087211m42,Parc Elgar,45.457304,-73.547897,"260, Rue Elgar",Verdun,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5082586m43,Parc Painter,45.527988,-73.676018,"260, Rue Marcotte",Saint-Laurent,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5015687m44,Parc Bourbonnière,45.501839,-73.702706,"2800, Rue Cazeneuve",Saint-Laurent,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1041817m45,Bain Schubert,45.516452,-73.578794,"3 950, Boulevard Saint-Laurent",Le Plateau-Mont-Royal,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+4143045m46,Parc Ménard,45.433645,-73.653179,"300, Rue Clément",LaSalle,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+0m47,Piscine Pierrefonds park,45.499403,-73.853316,355 chemin Rive-Boisée,Pierrefonds-Roxborro,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1123220m48,Piscine intérieure Saint-Henri,45.478166,-73.5874,"4 055, Rue St-Jacques",Le Sud-Ouest,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+2083978m49,Parc Primeau,45.593127,-73.636091,"4 209, Rue de Castille",Montréal-Nord,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2017640m50,René-Goupil,45.577875,-73.610824,"4 250, Rue du Parc-René-Goupil",Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5089500m51,Maisonneuve,45.554247,-73.542011,"4 350, Rue de Rouen",Mercier–Hochelaga-Maisonneuve,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1046323m52,Parc Sir George-Étienne-Cartier,45.473398,-73.586395,"4 550, Rue Sainte-Émilie",Le Sud-Ouest,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5005023m53,Centre sportif Côte-des-Neiges,45.492694,-73.638062,"4 880, Avenue Van Horne",Côte-des-Neiges–Notre-Dame-de-Grâce,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5126259m54,St-Roch,45.53198,-73.631014,"400, Avenue Ball",Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+0m55,Piscine Valleycrest,45.45784,-73.880981,4600 rue Cageux,Pierrefonds-Roxborro,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5060035m56,Parc Lasalle,45.438256,-73.675061,"475, 10e Avenue",Lachine,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5082406m57,Parc Maria-Goretti,45.691711,-73.487276,"488, 85e Avenue",Rivière-des-Prairies–Pointe-aux-Trembles,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4053724m58,Parc Eugène-D’Ostie,45.486348,-73.883515,"488, Montée de l’Église, L'Île-Bizard",L'Île-Bizard–Sainte-Geneviève,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2090635m59,Piscine intérieure de Saint-Léonard,45.585346,-73.598152,"5 115, Rue des Galets",Saint-Léonard,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+2094987m60,Parc Pie XII,45.588487,-73.607526,"5 200, Boulevard Lavoisier",Saint-Léonard,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1028133m61,Parc Sir Wilfrid-Laurier,45.53213,-73.58783,"5 200, Rue De Brébeuf",Le Plateau-Mont-Royal,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3065293m62,Centre communautaire Notre-Dame-de-Grâce,45.476181,-73.613861,"5 311, Chemin de la Côte-Saint-Antoine",Côte-des-Neiges–Notre-Dame-de-Grâce,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5007586m63,Complexe sportif Gadbois,45.46684,-73.595746,"5 485, Chemin De la Côte-Saint-Paul",Le Sud-Ouest,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+2164916m64,Parc Chénier,45.602972,-73.543303,"5 555, Avenue de l’Aréna",Anjou,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1129831m65,Parc Ignace-Bourget,45.455032,-73.607374,"5 925, Avenue De Montmagny",Le Sud-Ouest,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+0m66,Piscine Roxboro,45.50904,-73.809902,51 ave Georges-Vanier,Pierrefonds-Roxborro,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4049099m67,Parc Lacharité,45.418186,-73.622624,"55, Avenue Latour",LaSalle,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1053978m68,Parc de la Fontaine,45.463605,-73.544693,"550, Place de la Fontaine",Verdun,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4045983m69,Parc Raymond,45.428095,-73.603119,"555, Boulevard Bishop-Power",LaSalle,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2095006m70,Parc Ferland,45.596487,-73.597723,"6 020, Boulevard Lavoisier",Saint-Léonard,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5088615m71,Bain Émard,45.457801,-73.589466,"6 071, Rue Laurendeau",Le Sud-Ouest,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+2054519m72,Édouard-Montpetit,45.575583,-73.537388,"6 100, Avenue Pierre-de-Coubertin",Mercier–Hochelaga-Maisonneuve,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+3069278m73,Centre Rosemont,45.539952,-73.59587,"6 101, 8e Avenue",Rosemont–La Petite-Patrie,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+3006474m74,Parc de Kent,45.503958,-73.632063,"6 262, Chemin Hudson",Côte-des-Neiges–Notre-Dame-de-Grâce,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3066686m75,Parc de la Confédération,45.471961,-73.638357,"6 265, Avenue Biermans",Côte-des-Neiges–Notre-Dame-de-Grâce,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3065833m76,Centre sportif de Notre-Dame-de-Grâce,45.466479,-73.632704,"6 445, Avenue Monkland",Côte-des-Neiges–Notre-Dame-de-Grâce,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5073228m77,Natatorium de Verdun,45.443783,-73.574935,"6 500, Boulevard LaSalle",Verdun,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2011678m78,Parc Joseph-Paré,45.574865,-73.571457,"6 525, Rue 41e",Rosemont–La Petite-Patrie,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4046808m79,Parc Riverside,45.420058,-73.613211,"625, 35e Avenue",LaSalle,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5088238m80,Parc Dixie,45.44377,-73.718029,"695, 54e Avenue",Lachine,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5018645m81,Parc Lucie-Bruneau,45.603013,-73.583684,"7 051, Avenue de l’Alsace",Anjou,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5068257m82,Parc des Roseraies,45.593366,-73.555113,"7 070, Avenue de la Nantaise",Anjou,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3044179m83,Bain St-Denis,45.540369,-73.611903,"7 075, Rue Saint-Hubert",Rosemont–La Petite-Patrie,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+2087210m84,Parc G. Garibaldi,45.58722,-73.57155,"7 125, Rue Liénart",Saint-Léonard,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3014811m85,Patro Le Prévost,45.543715,-73.613562,"7 355, Avenue Christophe-Colomb",Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+5010387m86,Parc Roger-Rousseau,45.616818,-73.549995,"7 501, Avenue Rondeau",Anjou,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2062331m87,Parc François-Perrault,45.562587,-73.601059,"7 525, Rue François-Perrault",Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4048051m88,Parc Leroux,45.434301,-73.595461,"7 540, Rue Centrale",LaSalle,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2085259m89,Parc Ladauversière,45.581507,-73.583268,"7 560, Boulevard Lacordaire",Saint-Léonard,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2082478m90,Parc Hébert,45.572879,-73.592672,"7 655, Rue Colbert",Saint-Léonard,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3012132m91,Joseph-Charbonneau,45.551048,-73.623195,"8 200, Rue Rousselot",Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+2031382m92,Parc Verdelle,45.608413,-73.54959,"8 441, Place Verdelles",Anjou,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5101787m93,Georges-Vernot,45.568459,-73.614508,"8 475, 13e Avenue",Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+4033627m94,Parc Lefebvre,45.435467,-73.635418,"8 600, Rue Hardy",LaSalle,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4098279m95,Parc Chamberland,45.502986,-73.689901,"800, Rue Dorais",Saint-Laurent,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+5016546m96,Parc St-Laurent,45.526602,-73.687215,"845, Rue Poirier",Saint-Laurent,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+4034718m97,Parc Decelles,45.513433,-73.678404,"845, Rue Roy",Saint-Laurent,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+3036307m98,Parc John-F-Kennedy,45.521396,-73.615936,"860, Avenue Outremont",Outremont,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2020378m99,Parc Sainte-Lucie,45.575708,-73.626772,"9 093, 16e Avenue",Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+2050446m100,Parc L.-O.-Taillon,45.605967,-73.511217,"9 200, Rue Notre-Dame Est",Mercier–Hochelaga-Maisonneuve,,,Swimming Pool,Piscine extérieure,Montréal,Not yet visited
+1017231m101,Bain Lévesque,45.526243,-73.577899,"955, Rue Marie-Anne Est",Le Plateau-Mont-Royal,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+0m102,Piscine Émile-Legault,45.506094,-73.703438,,Saint-Laurent,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited
+0m103,Piscine Jonh F. Kennedy,45.55975,-73.603628,,Villeray–Saint-Michel–Parc-Extension,,,Swimming Pool,Piscine intérieure,Montréal,Not yet visited

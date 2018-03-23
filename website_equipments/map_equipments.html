@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	  <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Map - Cities Equipments</title>
+
+
+
+    <!-- SCRIPT AND LINK  -->
+    <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.css' type="text/css"  rel='stylesheet' />
+
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+   <!-- MAP_EQUIPMENTS CSS AND DATA -->
+    <link rel="stylesheet" type="text/css" href="map_equipments.css">
+    <script type="text/javascript" src="../data_website_equipments/json/equipments.json"></script>
+    <script type="text/javascript" src="../data_website_equipments/json/state_png.json"></script>
+
+  </head>
+
+
+  <body>
+	  <div id='map'></div>
+
+    <div class='map-overlay top'>
+      <div class='map-overlay-inner'>
+          <fieldset>
+              <label>Select style</label>
+              <select id='layer' name='layer' onchange="switchLayer(this.value)">
+          		  <option  value='mapbox/streets-v9'>Streets</option>
+                            <option value='mapbox/basic-v9'>Basic</option>
+                            <option  value='mapbox/satellite-v9'>Satellite</option>
+                            <option  value='mapbox/dark-v9'>Dark</option>
+                            <option  value='mapbox/light-v9'>Light</option>
+                            <option  value='mapbox/outdoors-v9'>Outdoors</option>
+                            <option  value='mapbox/satellite-streets-v9'>Satellite streets</option>
+          		              <option  value='flohat32/cjblirl0g37v22srtr1w3qdl0'>Ukiyo-e</option>
+              </select>
+          </fieldset>
+       </div>
+     </div>
+
+     <!-- Comment this part if you do not want the treeview -->
+     <script>
+
+       function getParentBox(id,name) {
+            return "<li><i class='fa fa-plus'></i> <label> <input id="+String('"')+String(id)+String('"')+" data-id="+String('"')+String(id)+String('"')+" type='checkbox'> "+String(name)+"</label>"+"<ul class='noindent'>"
+       }
+       function getLeafBox(id,name) {
+          return "<li><label> <input class='hummingbird-end-node' id="+String('"')+String(id)+String('"')+" data-id="+String('"')+String(id)+String('"')+" type='checkbox'> "+String(name)+"</label></li>"
+       }
+       function createTreeBox(l_box,l_equip,res="",idtmp="all"){
+         const l_box_tmp =  $.extend( true,[] ,l_box );
+         const unique = new Set(Object.keys(l_equip).map(id=>l_equip[id][l_box_tmp[0]]));
+         const lbox0=l_box_tmp[0]
+         if (l_box_tmp.length==1){
+          unique.forEach(function(name){
+            res+=getLeafBox(idtmp+":::"+name,name)
+          })
+         }
+         else{
+           l_box_tmp.shift()
+           unique.forEach(function(name){
+             res+=getParentBox(idtmp+":::"+name,name)
+             const filtered = Object.keys(l_equip)
+                             .filter(key => l_equip[key][lbox0]==name)
+                             .reduce((obj, key) => {
+                               obj[key] = l_equip[key];
+                               return obj;
+                             }, {});
+             res=createTreeBox(l_box_tmp,filtered,res,idtmp+":::"+name)+"</ul>"
+           })
+         }
+         return res;
+       }
+
+
+       // Choose the element and the order of the treeview with this simple list l_box
+       const l_box=["cat","city","zipCode"]
+
+       const divtreeview="<div class='map-treeview'><label>Select Equipment</label>"+
+             "<div id='treeview_container' class='hummingbird-treeview'>"+
+               "<div id='treeview' class='hummingbird-base'>"+
+                 "<li><i class='fa fa-plus'></i> <label> <input id='all' data-id='all' type='checkbox'> All equipments</label>"+
+                   "<ul class='noindent'>"+
+                   createTreeBox(l_box,equipments)+
+                    "</ul>"+
+                 "</li>"+
+               "</div>"+
+             "</div>"+
+       "</div>";
+
+        document.body.innerHTML +=divtreeview;
+
+      </script>
+
+      <script src='map.js'></script>
+
+      <!-- Comment this part if you do not want the treeview -->
+      <script src="treeview.js"></script>
+      <script src='map-treeview.js'></script>
+
+
+
+  </body>
+
+
+
+
+</html>

@@ -1,0 +1,154 @@
+  html, body {
+      margin:0; padding:0;
+  }
+
+
+  #map{
+      position:absolute;
+      top:0;
+      bottom:0;
+      width:100%;
+  }
+
+  /*Select map style*/
+  .map-overlay {
+      font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      position: absolute;
+      width: 100px;
+      top: 0;
+      left: 35px;
+      padding: 8px;
+      z-index: 1000;
+  }
+
+  .map-overlay .map-overlay-inner {
+      background-color: #fff;
+      border-radius: 5px;
+      padding: 2px;
+      margin-bottom:10px;
+      border:solid;
+      width:100px;
+      height:65px;
+      border-color:rgba(0, 0, 0, 0.15);
+  }
+
+  .map-overlay-inner fieldset {
+      border: none;
+      padding: 0;
+      margin: 0 0 10px;
+  }
+
+  .map-overlay-inner fieldset:last-child {
+      margin: 0;
+  }
+
+  .map-overlay-inner select {
+      width: 100%;
+  }
+
+  .map-overlay-inner label {
+      display: block;
+      font-weight: bold;
+      margin: 0 0 5px;
+  }
+
+  .map-overlay-inner button {
+      display: inline-block;
+      width: 36px;
+      height: 20px;
+      border: none;
+      cursor: pointer;
+  }
+
+  .map-overlay-inner button:focus {
+      outline: none;
+  }
+
+  .map-overlay-inner button:hover {
+      box-shadow:inset 0 0 0 3px rgba(0, 0, 0, 0.20);
+  }
+
+
+/*Treeview*/
+  .map-treeview {
+      font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 8px;
+      left: 145px;
+      /* padding: 10px; */
+      background-color: #fff;
+      border-radius: 5px;
+      min-width:130px;
+      min-height:65px;
+      padding: 2px;
+      border:solid;
+      margin-bottom:10px;
+      border-color:rgba(0, 0, 0, 0.15);
+      display: inline-block;
+      z-index: 1000;
+  }
+
+/*Treeview css*/
+
+  .h-scroll {
+    background-color: #fcfdfd;
+    height: 26px;
+    overflow-y: scroll;
+ }
+
+.hummingbird-treeview,
+.hummingbird-treeview *
+{
+    list-style: none;
+    font-size: 12px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, ;
+    line-height: 14px;
+    width:100;
+}
+
+.hummingbird-treeview label {
+    font-weight: normal;
+}
+
+
+.hummingbird-treeview input[type=checkbox] {
+    width : 12px;
+    height :12px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.hummingbird-treeview ul:not(.hummingbird-base) {
+    display: none;
+}
+
+.hummingbird-treeview .fa {
+    font-style: normal;
+    cursor: pointer;
+}
+
+
+
+
+/*Marker*/
+
+  .marker {
+      position: absolute;
+      display: block;
+      border: none;
+      border-radius: 0%;
+      cursor: pointer;
+      padding: 0;
+  }
+
+
+.container { margin:15px auto; min-height:50vh;}
+
+
+
+ul.noindent {
+    margin-left: 5px;
+    margin-right: 0px;
+    padding-left: 20px;
+    padding-right: 0px;
+}
